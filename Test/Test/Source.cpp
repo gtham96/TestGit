@@ -7,4 +7,4 @@ int main()
 	cout << "Hell9o\n";
 	system("pause");
 	return 0;
-}weqw
+}weqwhh
